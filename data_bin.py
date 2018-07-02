@@ -4,7 +4,6 @@ import csv
 import pandas as pd
 import os
 from PIL import Image
-#from data_augment import unet_augment
 import numpy as np
 import random
 
